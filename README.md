@@ -1,24 +1,6 @@
 # probability-simulator
 simulates binomial and geometric probability with animation
 
-# Get started
-- clone this repository and install the necessary dependecies
-
-```bash
-pip install -r requirements.txt
-```
-
-# Distributions
-## Geometric distribution
-This will run the probability until you get n amount of successes and will record the amount of times you have to run the probability until you get a success.
-For example if you flip a coin over and over again until you get a heads and got a heads on the **3rd** try. The bar at **3** will increase by one.
-Find more about Geometric distribution here: https://en.wikipedia.org/wiki/Geometric_distribution 
-
-## Binomial distribution
-Thiswill run the probability n amount of times and record the number of successes into the bar.
-For example if you flip a coin **10** times and got **6** heads, the bar at **6** will increase by 1.
-
-Find more about Binomial distribution here: https://en.wikipedia.org/wiki/Binomial_distribution
 
 ## Initializing Geometric distribution
 ## Geometric
